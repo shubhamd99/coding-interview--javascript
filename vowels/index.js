@@ -18,4 +18,11 @@ function vowels(str) {
     return count;
 }
 
+function vowels2(str) {
+    const matches = str.match(/[aeiou]/gi);
+    matches ? matches.length : 0;
+
+    return count;
+}
+
 module.exports = vowels;
