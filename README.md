@@ -7,8 +7,6 @@ It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and m
 jest fib/test.js --watch
 ```
 
-![alt text](https://i.imgur.com/JdRaYmW.png)
-
 ![alt text](https://i.imgur.com/kAN6gIA.png)
 
 ![alt text](https://i.imgur.com/c87H5Rb.png)
