@@ -10,3 +10,14 @@ jest fib/test.js --watch
 ![alt text](https://i.imgur.com/JdRaYmW.png)
 
 ![alt text](https://i.imgur.com/kAN6gIA.png)
+
+![alt text](https://i.imgur.com/c87H5Rb.png)
+
+#### Linear Runtime (One to One relationship)
+![alt text](https://i.imgur.com/nm1TemU.png)
+
+#### Quadratic Runtime
+![alt text](https://i.imgur.com/okcyMXW.png)
+
+## Types
+![alt text](https://i.imgur.com/y1m3E0x.png)
