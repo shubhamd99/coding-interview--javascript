@@ -21,7 +21,7 @@ jest fib/test.js --watch
 ![alt text](https://i.imgur.com/y1m3E0x.png)
 
 ## Big 'O'
-![alt text]('https://i.imgur.com/3nURDjh.png)
+![alt text](https://i.imgur.com/3nURDjh.png)
 
 ## Space Complexity
-![alt text]('https://i.imgur.com/tEkM6AK.png)
+![alt text](https://i.imgur.com/tEkM6AK.png)
