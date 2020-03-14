@@ -28,3 +28,15 @@ jest fib/test.js --watch
 
 ## Memoization
 ![alt text](https://i.imgur.com/l70MZzi.png)
+
+## Data Structures
+![alt text](https://i.imgur.com/c6wwZrw.png)
+
+## Queue (First In First Out)
+![alt text](https://i.imgur.com/OvaW53z.png)
+
+## Weave Queue
+![alt text](https://i.imgur.com/ntjsRe3.png)
+
+## Stack (First In Last Out)
+![alt text](https://i.imgur.com/BAtzeaT.png)
