@@ -17,7 +17,7 @@ test('calculates correct fib value for 3', () => {
 });
 
 test('calculates correct fib value for 5', () => {
-    expect(fib(5)).toEqual(8);
+    expect(fib(6)).toEqual(8);
 });
 
 test('calculates correct fib value for 15', () => {

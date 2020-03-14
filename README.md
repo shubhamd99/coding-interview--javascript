@@ -25,3 +25,6 @@ jest fib/test.js --watch
 
 ## Space Complexity
 ![alt text](https://i.imgur.com/tEkM6AK.png)
+
+## Memoization
+![alt text](https://i.imgur.com/l70MZzi.png)
