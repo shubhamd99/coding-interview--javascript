@@ -40,3 +40,12 @@ jest linkedlist/test.js --watch
 
 ## Stack (First In Last Out)
 ![alt text](https://i.imgur.com/BAtzeaT.png)
+
+## Binary Tree
+![alt text](https://i.imgur.com/gmywy8B.png)
+
+## Breadth-First Traversal
+![alt text](https://i.imgur.com/5kimtX9.png)
+
+## Depth-First Traversal
+![alt text](https://i.imgur.com/mzlWiu6.png)
