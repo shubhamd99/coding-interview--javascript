@@ -15,19 +15,22 @@
 //     [11, 16, 15, 6],
 //     [10,  9,  8, 7]]
 
-function matrix(n) {
+function matrix(n) { // 3
     const results = [];
 
     for (let i = 0; i < n; i++) {
-        results.push([]);
+        results.push([]); // [ [], [], [] ]
     }
+
+    // row -> horizontal
+    // column -> vertical
 
     let counter = 1;
 
     let startColumn = 0;
-    let endColumn = n - 1; // last column 3-1 = 2
+    let endColumn = n - 1; // last column (3 - 1 = 2)
     let startRow = 0;
-    let endRow = n - 1;
+    let endRow = n - 1; // last row (3 - 1 = 2)
 
     while(startColumn <= endColumn && startRow <= endRow) {
         // Top Row
