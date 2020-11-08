@@ -4,6 +4,7 @@
 // low = 0
 // high = 16
 // answer: 4 --> 4 x 4 = 16
+// log n
 function findSquareRoot(number, low_bound, high_bound) {
 
     let mid = (low_bound + high_bound) / 2; // 8
