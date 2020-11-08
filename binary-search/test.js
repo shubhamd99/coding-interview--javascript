@@ -18,7 +18,7 @@ test('Binary Search Tree on Sorted Array', () => {
 });
 
 test('Binary Search Tree on Un-Sorted Array', () => {
-  const arr = [ 4, 6, 3, 1, 71, 5, 8 ]; 
+  const arr = [ 4, 6, 9, 1, 71, 3, 8 ]; 
 
   const find = recursiveBinarySearchUnsorted(arr, 8, 0, arr.length - 1);
   console.log("find function output: ", find);

@@ -30,6 +30,15 @@ function recursiveBinarySearch(arr, x, start, end) {
     }
 }
 
+// ------ Logic for Unsorted --------:
+// Let input array arr = [4,5,6,7,8,9,1,2,3]
+// number of elements  = 9
+// mid index = (0+8)/2 = 4
+
+// [4,5,6,7,8,9,1,2,3]
+//         ^
+// low   mid  high
+
 // arr = [ 4, 6, 3, 1, 71, 5, 8 ]
 // key = 8 (At index 6)
 // low = 0
